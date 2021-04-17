@@ -1,0 +1,13 @@
+.result-list{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    align-items: center;
+    justify-content: space-around;
+
+    > * {
+        margin: 10px;
+    }
+}

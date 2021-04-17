@@ -1,0 +1,17 @@
+.draggable{
+    width: 100%;
+    height: 100%;
+    -webkit-app-region: drag;
+    -webkit-user-select: none;
+}
+
+.logo{
+    height: 40px;
+    width: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.control-wrapper{
+    -webkit-user-drag: none; 
+}

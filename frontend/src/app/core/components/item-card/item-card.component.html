@@ -1,0 +1,8 @@
+<mat-card class="card">
+    <mat-card-content>
+        <h1>{{data.title}}</h1>
+        <div class="options" *ngFor="let option of data.options">
+            <h3>{{option.title}} : {{option.value}}</h3>
+        </div>
+      </mat-card-content>
+</mat-card>

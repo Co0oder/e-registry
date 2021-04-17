@@ -1,0 +1,933 @@
+{
+    "locations":
+          [
+            {
+                "longitude": 49.21297668606792, 
+                "latitude": 28.444039586518073, 
+                "city_name": "Вінниця", 
+                "address": "вулиця Пирогова, 109, Вінниця, Вінницька область, 21037"
+            },
+            {
+                "longitude": 49.23560251080747, 
+                "latitude": 28.44240005974574, 
+                "city_name": "Вінниця", 
+                "address": "вулиця Данила Галицького, 6-Б, Вінниця, Вінницька область, 21000"
+            },
+            {
+                "longitude": 49.23736277792392, 
+                "latitude": 28.415045628495136, 
+                "city_name": "Вінниця", 
+                "address": "Хмельницьке шосе, 92, Вінниця, Вінницька область, 21000"
+            },
+            {
+                "longitude": 46.446497053167114, 
+                "latitude": 30.708687372839815, 
+                "city_name": "Одеса", 
+                "address": "вулиця Маршала Малиновського, 61, Одеса, Одеська область, 65000"
+            },
+            {
+                "longitude": 50.460689759033215, 
+                "latitude": 30.459213688347152, 
+                "city_name": "Київ", 
+                "address": "вулиця Зоологічна, 3, Київ, 03057"
+            }
+        ],
+          
+    "hospitals":
+        [
+
+            {
+                "hospital_name": "Вінницька обласна клінічна психоневрологічна лікарня ім. Акад. О.І.Ющенка", 
+                "hospital_phone": "+380432507901", 
+                "hospital_domain": "Психіатрія", 
+                "longitude": 49.21297668606792, 
+                "latitude": 28.444039586518073
+            },
+            {
+                "hospital_name": "Медичний центр Гормонія", 
+                "hospital_phone": "+380962727509", 
+                "hospital_domain": "Хірургія", 
+                "longitude": 49.23560251080747, 
+                "latitude": 28.44240005974574
+            },
+            {
+                "hospital_name": "Центральна районна клінічна лікарня", 
+                "hospital_phone": "+380432511288", 
+                "hospital_domain": "Загальна", 
+                "longitude": 49.23736277792392, 
+                "latitude": 28.415045628495136
+            },
+            {
+                "hospital_name": "Клініка естетичної та пластичної хірургії", 
+                "hospital_phone": "+380482647973", 
+                "hospital_domain": "Хірургія", 
+                "longitude": 46.446497053167114, 
+                "latitude": 30.708687372839815
+            },
+            {
+                "hospital_name": "Київська міська клінічна лікарня №14", 
+                "hospital_phone": "+380444836917", 
+                "hospital_domain": "Загальна", 
+                "longitude": 50.460689759033215, 
+                "latitude": 30.459213688347152
+            }
+        ],
+    "doctors":
+          [
+            {
+                "doctors_name": "Валентин", 
+                "doctors_sure_name": "Пономарчук", 
+                "doctors_phone": "+380-338-555-509", 
+                "doctors_domain": "Хірург", 
+                "doctors_experience": 30,
+                "doctors_birth_date": "26/03/1953",
+                "department_name": "Хірургічне відділення",
+                "office_number": 1
+            },
+            {
+                "doctors_name": "Анатолій", 
+                "doctors_sure_name": "Гнатюк", 
+                "doctors_phone": "+380-505-555-004", 
+                "doctors_domain": "Окуліст", 
+                "doctors_experience": 2,
+                "doctors_birth_date": "18/02/1954",
+                "department_name": "Хірургічне відділення",
+                "office_number": 2
+            },
+            {
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко", 
+                "doctors_phone": "+380-395-556-424", 
+                "doctors_domain": "Стоматолог",
+                "doctors_experience": 20,
+                "doctors_birth_date": "23/07/1954",
+                "department_name": "Хірургічне відділення",
+                "office_number": 3
+            },
+            {
+                "doctors_name": "Олег", 
+                "doctors_sure_name": "Шевченко", 
+                "doctors_phone": "+380-635-555-798", 
+                "doctors_domain": "Травматолог", 
+                "doctors_experience": 2,
+                "doctors_birth_date": "27/11/1955",
+                "department_name": "Хірургічне відділення",
+                "office_number": 4
+            },
+            {
+                "doctors_name": "Валерій", 
+                "doctors_sure_name": "Пономаренко", 
+                "doctors_phone": "+380-505-555-686", 
+                "doctors_domain": "Психіатр", 
+                "doctors_experience": 15,
+                "doctors_birth_date": "30/01/1956",
+                "department_name": "Хірургічне відділення",
+                "office_number": 4
+            },
+            {
+                "doctors_name": "Раїса", 
+                "doctors_sure_name": "Іванченко", 
+                "doctors_phone": "+380-635-557-871", 
+                "doctors_domain": "Хірург", 
+                "doctors_experience": 20,
+                "doctors_birth_date": "07/08/1960",
+                "department_name": "Хірургічне відділення",
+                "office_number": 5
+            },
+            {
+                "doctors_name": "Дар'я", 
+                "doctors_sure_name": "Лисенко", 
+                "doctors_phone": "+380-635-555-958", 
+                "doctors_domain": "Хірург", 
+                "doctors_experience": 2,
+                "doctors_birth_date": "06/12/1961",
+                "department_name": "Хірургічне відділення",
+                "office_number": 6
+            },
+            {
+                "doctors_name": "Олексій", 
+                "doctors_sure_name": "Пономаренко", 
+                "doctors_phone": "+380-505-553-517", 
+                "doctors_domain": "Стоматолог", 
+                "doctors_experience": 22,
+                "doctors_birth_date": "06/03/1962",
+                "department_name": "Хірургічне відділення",
+                "office_number": 7
+            },
+            {
+                "doctors_name": "Ілля", 
+                "doctors_sure_name": "Павлюк", 
+                "doctors_phone": "+380-635-556-853", 
+                "doctors_domain": "Окуліст",
+                "doctors_experience": 24,
+                "doctors_birth_date": "24/01/1963",
+                "department_name": "Хірургічне відділення",
+                "office_number": 8
+            },
+            {
+                "doctors_name": "Олег", 
+                "doctors_sure_name": "Платон", 
+                "doctors_phone": "+380-635-552-458", 
+                "doctors_domain": "Ендокринолог", 
+                "doctors_experience": 14,
+                "doctors_birth_date": "20/01/1964",
+                "department_name": "Хірургічне відділення",
+                "office_number": 8
+            },
+            {
+                "doctors_name": "Катерина", 
+                "doctors_sure_name": "Броварчук", 
+                "doctors_phone": "+380-395-555-834", 
+                "doctors_domain": "Хірург", 
+                "doctors_experience": 10,
+                "doctors_birth_date": "04/12/1964",
+                "department_name": "Хірургічне відділення",
+                "office_number": 9
+            },
+            {
+                "doctors_name": "Єлизавета", 
+                "doctors_sure_name": "Іванченко", 
+                "doctors_phone": "+380-452-555-372", 
+                "doctors_domain": "Окуліст", 
+                "doctors_experience": 25,
+                "doctors_birth_date": "26/10/1966",
+                "department_name": "Хірургічне відділення",
+                "office_number": 10
+            },
+            {
+                "doctors_name": "Юрій", 
+                "doctors_sure_name": "Захарчук", 
+                "doctors_phone": "+380-129-155-514", 
+                "doctors_domain": "Стоматолог", 
+                "doctors_experience": 22,
+                "doctors_birth_date": "06/03/1968",
+                "department_name": "Хірургічне відділення",
+                "office_number": 11
+            },
+            {
+                "doctors_name": "Мирослав", 
+                "doctors_sure_name": "Таращук", 
+                "doctors_phone": "+380-395-552-642", 
+                "doctors_domain": "Окуліст", 
+                "doctors_experience": 10,
+                "doctors_birth_date": "13/12/1968",
+                "department_name": "Хірургічне відділення",
+                "office_number": 12
+            },
+            {
+                "doctors_name": "Діана", 
+                "doctors_sure_name": "Пономаренко", 
+                "doctors_phone": "+380-876-555-548", 
+                "doctors_domain": "Психіатр", 
+                "doctors_experience": 7,
+                "doctors_birth_date": "21/02/1972",
+                "department_name": "Хірургічне відділення",
+                "office_number": 12
+            },
+            {
+                "doctors_name": "Ольга", 
+                "doctors_sure_name": "Шевченко", 
+                "doctors_phone": "+380-395-559-049", 
+                "doctors_domain": "Психотерапевт", 
+                "doctors_experience": 22,
+                "doctors_birth_date": "29/07/1973",
+                "department_name": "Хірургічне відділення",
+                "office_number": 13
+            },
+            {
+                "doctors_name": "Євген", 
+                "doctors_sure_name": "Крамарчук", 
+                "doctors_phone": "+380-505-558-996", 
+                "doctors_domain": "Окуліст",
+                "doctors_experience": 25,
+                "doctors_birth_date": "07/03/1976",
+                "department_name": "Хірургічне відділення",
+                "office_number": 14
+            },
+            {
+                "doctors_name": "Кравчук", 
+                "doctors_sure_name": "Катерина", 
+                "doctors_phone": "+380-635-556-015", 
+                "doctors_domain": "Стоматолог", 
+                "doctors_experience": 33,
+                "doctors_birth_date": "01/12/1976",
+                "department_name": "Хірургічне відділення",
+                "office_number": 15
+            },
+            {
+                "doctors_name": "Олена", 
+                "doctors_sure_name": "Мірошниченко", 
+                "doctors_phone": "+380-395-557-034", 
+                "doctors_domain": "Хірург",
+                "doctors_experience": 21,
+                "doctors_birth_date": "02/01/1978",
+                "department_name": "Хірургічне відділення",
+                "office_number": 16
+            },
+            {
+                "doctors_name": "Віталій", 
+                "doctors_sure_name": "Гнатюк", 
+                "doctors_phone": "+380-505-555-471", 
+                "doctors_domain": "Психіатр", 
+                "doctors_experience": 16,
+                "doctors_birth_date": "19/04/1978",
+                "department_name": "Хірургічне відділення",
+                "office_number": 16
+            },
+            {
+                "doctors_name": "Софія", 
+                "doctors_sure_name": "Петренко", 
+                "doctors_phone": "+380-635-555-159", 
+                "doctors_domain": "Психотерапевт", 
+                "doctors_experience": 19,
+                "doctors_birth_date": "16/07/1981",
+                "department_name": "Хірургічне відділення",
+                "office_number": 17
+            },
+            {
+                "doctors_name": "Йосип", 
+                "doctors_sure_name": "Крамаренко", 
+                "doctors_phone": "+380-635-551-899", 
+                "doctors_domain": "Ендокринолог", 
+                "doctors_experience": 22,
+                "doctors_birth_date": "15/11/1983",
+                "department_name": "Хірургічне відділення",
+                "office_number": 18
+            },
+            {
+                "doctors_name": "Дар'я", 
+                "doctors_sure_name": "Васильович", 
+                "doctors_phone": "+380-505-550-660", 
+                "doctors_domain": "Травматолог",
+                "doctors_experience": 18,
+                "doctors_birth_date": "30/03/1984",
+                "department_name": "Хірургічне відділення",
+                "office_number": 19
+            },
+            {
+                "doctors_name": "Галина", 
+                "doctors_sure_name": "Середа", 
+                "doctors_phone": "+380-165-055-509", 
+                "doctors_domain": "Хірург", 
+                "doctors_experience": 4,
+                "doctors_birth_date": "12/04/1984",
+                "department_name": "Хірургічне відділення",
+                "office_number": 20
+            },
+            {
+                "doctors_name": "Bалерій", 
+                "doctors_sure_name": "Микитюк", 
+                "doctors_phone": "+380-635-555-875", 
+                "doctors_domain": "Ендокринолог", 
+                "doctors_experience": 9,
+                "doctors_birth_date": "09/06/1984",
+                "department_name": "Хірургічне відділення",
+                "office_number": 20
+            }
+        ],
+    "departments":
+          [
+            {
+                "department_name": "Терапевтичне відділення", 
+                "department_domain": "Терапія",
+                "doctors_name": "Валентин", 
+                "doctors_sure_name": "Пономарчук", 
+                "doctors_domain": "Хірург", 
+                "hospital_name": "Вінницька обласна клінічна психоневрологічна лікарня ім. Акад. О.І.Ющенка", 
+                "hospital_phone": "+380432507901"
+            },
+            {
+                "department_name": "Хірургічне відділення", 
+                "department_domain": "Хірургія",
+                "doctors_name": "Анатолій", 
+                "doctors_sure_name": "Гнатюк", 
+                "doctors_domain": "Окуліст",
+                "hospital_name": "Вінницька обласна клінічна психоневрологічна лікарня ім. Акад. О.І.Ющенка", 
+                "hospital_phone": "+380432507901"
+            },
+            {
+                "department_name": "Стоматологічне відділення", 
+                "department_domain": "Стоматологія",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог",
+                "hospital_name": "Вінницька обласна клінічна психоневрологічна лікарня ім. Акад. О.І.Ющенка", 
+                "hospital_phone": "+380432507901"
+            },
+            {
+                "department_name": "Терапевтичне відділення", 
+                "department_domain": "Терапія",
+                "doctors_name": "Дар'я", 
+                "doctors_sure_name": "Лисенко",  
+                "doctors_domain": "Хірург",
+                "hospital_name": "Медичний центр Гормонія", 
+                "hospital_phone": "+380962727509"
+            },
+            {
+                "department_name": "Хірургічне відділення", 
+                "department_domain": "Хірургія",
+                "doctors_name": "Раїса", 
+                "doctors_sure_name": "Іванченко", 
+                "doctors_domain": "Хірург",
+                "hospital_name": "Медичний центр Гормонія", 
+                "hospital_phone": "+380962727509"
+            },
+            {
+                "department_name": "Стоматологічне відділення", 
+                "department_domain": "Стоматологія",
+                "doctors_name": "Раїса", 
+                "doctors_sure_name": "Іванченко", 
+                "doctors_domain": "Хірург",
+                "hospital_name": "Медичний центр Гормонія", 
+                "hospital_phone": "+380962727509"
+            },
+            {
+                "department_name": "Терапевтичне відділення", 
+                "department_domain": "Терапія",
+                "doctors_name": "Юрій", 
+                "doctors_sure_name": "Захарчук", 
+                "doctors_domain": "Стоматолог",  
+                "hospital_name": "Центральна районна клінічна лікарня", 
+                "hospital_phone": "+380432511288"
+            },
+            {
+                "department_name": "Хірургічне відділення", 
+                "department_domain": "Хірургія",
+                "doctors_name": "Єлизавета", 
+                "doctors_sure_name": "Іванченко", 
+                "doctors_domain": "Окуліст",  
+                "hospital_name": "Центральна районна клінічна лікарня", 
+                "hospital_phone": "+380432511288"
+            },
+            {
+                "department_name": "Стоматологічне відділення", 
+                "department_domain": "Стоматологія",
+                "doctors_name": "Катерина", 
+                "doctors_sure_name": "Броварчук", 
+                "doctors_domain": "Хірург",  
+                "hospital_name": "Центральна районна клінічна лікарня", 
+                "hospital_phone": "+380432511288"
+            },
+            {
+                "department_name": "Терапевтичне відділення", 
+                "department_domain": "Терапія",
+                "doctors_name": "Кравчук", 
+                "doctors_sure_name": "Катерина", 
+                "doctors_domain": "Стоматолог",
+                "hospital_name": "Клініка естетичної та пластичної хірургії", 
+                "hospital_phone": "+380482647973"
+            },
+            {
+                "department_name": "Хірургічне відділення", 
+                "department_domain": "Хірургія",
+                "doctors_name": "Євген", 
+                "doctors_sure_name": "Крамарчук", 
+                "doctors_domain": "Окуліст",
+                "hospital_name": "Клініка естетичної та пластичної хірургії", 
+                "hospital_phone": "+380482647973"
+            },
+            {
+                "department_name": "Стоматологічне відділення", 
+                "department_domain": "Стоматологія",
+                "doctors_name": "Ольга", 
+                "doctors_sure_name": "Шевченко",
+                "doctors_domain": "Психотерапевт",
+                "hospital_name": "Клініка естетичної та пластичної хірургії", 
+                "hospital_phone": "+380482647973"
+            },
+            {
+                "department_name": "Терапевтичне відділення", 
+                "department_domain": "Терапія",
+                "doctors_name": "Дар'я", 
+                "doctors_sure_name": "Васильович", 
+                "doctors_domain": "Травматолог", 
+                "hospital_name": "Київська міська клінічна лікарня №14", 
+                "hospital_phone": "+380444836917"
+            },
+            {
+                "department_name": "Хірургічне відділення", 
+                "department_domain": "Хірургія",
+                "doctors_name": "Йосип", 
+                "doctors_sure_name": "Крамаренко",
+                "doctors_domain": "Ендокринолог",
+                "hospital_name": "Київська міська клінічна лікарня №14", 
+                "hospital_phone": "+380444836917"
+            },
+            {
+                "department_name": "Стоматологічне відділення", 
+                "department_domain": "Стоматологія",
+                "doctors_name": "Софія", 
+                "doctors_sure_name": "Петренко", 
+                "doctors_domain": "Психотерапевт",
+                "hospital_name": "Київська міська клінічна лікарня №14", 
+                "hospital_phone": "+380444836917" 
+            }
+        ],
+    "staff_members":
+          [
+            {
+                "staff_member_name": "Анатолій", 
+                "staff_member_sure_name": "Гнатюк", 
+                "staff_member_phone": "+380-505-555-004", 
+                "staff_member_position": "Медичний брат", 
+                "staff_member_experience": 2,
+                "staff_member_birth_date": "18/02/1954",
+                "department_name": "Терапевтичне відділення",
+                "doctors_name": "Валентин", 
+                "doctors_sure_name": "Пономарчук", 
+                "doctors_domain": "Хірург"
+            },
+            {
+                "staff_member_name": "Валентин", 
+                "staff_member_sure_name": "Пономарчук", 
+                "staff_member_phone": "+380-338-555-509", 
+                "staff_member_position": "Санітар", 
+                "staff_member_experience": 30,
+                "staff_member_birth_date": "26/03/1953",
+                "department_name": "Терапевтичне відділення",
+                "doctors_name": "Валентин", 
+                "doctors_sure_name": "Пономарчук", 
+                "doctors_domain": "Хірург"
+            },
+            {
+                "staff_member_name": "Ярослав", 
+                "staff_member_sure_name": "Мірошниченко", 
+                "staff_member_phone": "+380-395-556-424", 
+                "staff_member_position": "Старший медичний брат", 
+                "staff_member_experience": 20,
+                "staff_member_birth_date": "23/07/1954",
+                "department_name": "Терапевтичне відділення", 
+                "doctors_name": "Валентин", 
+                "doctors_sure_name": "Пономарчук", 
+                "doctors_domain": "Хірург"
+            },
+            {
+                "staff_member_name": "Олег", 
+                "staff_member_sure_name": "Шевченко", 
+                "staff_member_phone": "+380-635-555-798", 
+                "staff_member_position": "Водій швидкої", 
+                "staff_member_experience": 2,
+                "staff_member_birth_date": "27/11/1955",
+                "department_name": "Терапевтичне відділення", 
+                "doctors_name": "Валентин", 
+                "doctors_sure_name": "Пономарчук", 
+                "doctors_domain": "Хірург"
+            },
+            {
+                "staff_member_name": "Валерій", 
+                "staff_member_sure_name": "Пономаренко", 
+                "staff_member_phone": "+380-505-555-686", 
+                "staff_member_position": "Повар", 
+                "staff_member_experience": 15,
+                "staff_member_birth_date": "30/01/1956",
+                "department_name": "Терапевтичне відділення", 
+                "doctors_name": "Валентин", 
+                "doctors_sure_name": "Пономарчук", 
+                "doctors_domain": "Хірург"
+            },
+            {
+                "staff_member_name": "Раїса", 
+                "staff_member_sure_name": "Іванченко", 
+                "staff_member_phone": "+380-635-557-871", 
+                "staff_member_position": "Санітар", 
+                "staff_member_experience": 20,
+                "staff_member_birth_date": "07/08/1960",
+                "department_name": "Хірургічне відділення",
+                "doctors_name": "Анатолій", 
+                "doctors_sure_name": "Гнатюк", 
+                "doctors_domain": "Окуліст"
+            },
+            {
+                "staff_member_name": "Дар'я", 
+                "staff_member_sure_name": "Лисенко", 
+                "staff_member_phone": "+380-635-555-958", 
+                "staff_member_position": "Санітар", 
+                "staff_member_experience": 2,
+                "staff_member_birth_date": "06/12/1961",
+                "department_name": "Хірургічне відділення",
+                "doctors_name": "Анатолій", 
+                "doctors_sure_name": "Гнатюк", 
+                "doctors_domain": "Окуліст"
+            },
+            {
+                "staff_member_name": "Олексій", 
+                "staff_member_sure_name": "Пономаренко", 
+                "staff_member_phone": "+380-505-553-517", 
+                "staff_member_position": "Старший медичний брат", 
+                "staff_member_experience": 22,
+                "staff_member_birth_date": "06/03/1962",
+                "department_name": "Хірургічне відділення",
+                "doctors_name": "Анатолій", 
+                "doctors_sure_name": "Гнатюк", 
+                "doctors_domain": "Окуліст"
+            },
+            {
+                "staff_member_name": "Ілля", 
+                "staff_member_sure_name": "Павлюк", 
+                "staff_member_phone": "+380-635-556-853", 
+                "staff_member_position": "Медичний брат", 
+                "staff_member_experience": 24,
+                "staff_member_birth_date": "24/01/1963",
+                "department_name": "Хірургічне відділення",
+                "doctors_name": "Анатолій", 
+                "doctors_sure_name": "Гнатюк", 
+                "doctors_domain": "Окуліст"
+            },
+            {
+                "staff_member_name": "Олег", 
+                "staff_member_sure_name": "Платон", 
+                "staff_member_phone": "+380-635-552-458", 
+                "staff_member_position": "Завідувач господарства", 
+                "staff_member_experience": 14,
+                "staff_member_birth_date": "20/01/1964",
+                "department_name": "Хірургічне відділення",
+                "doctors_name": "Анатолій", 
+                "doctors_sure_name": "Гнатюк", 
+                "doctors_domain": "Окуліст"
+            },
+            {
+                "staff_member_name": "Катерина", 
+                "staff_member_sure_name": "Броварчук", 
+                "staff_member_phone": "+380-395-555-834", 
+                "staff_member_position": "Санітар", 
+                "staff_member_experience": 10,
+                "staff_member_birth_date": "04/12/1964",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+                
+            },
+            {
+                "staff_member_name": "Єлизавета", 
+                "staff_member_sure_name": "Іванченко", 
+                "staff_member_phone": "+380-452-555-372", 
+                "staff_member_position": "Медична сестра", 
+                "staff_member_experience": 25,
+                "staff_member_birth_date": "26/10/1966",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Юрій", 
+                "staff_member_sure_name": "Захарчук", 
+                "staff_member_phone": "+380-129-155-514", 
+                "staff_member_position": "Старший медичний брат", 
+                "staff_member_experience": 22,
+                "staff_member_birth_date": "06/03/1968",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Мирослав", 
+                "staff_member_sure_name": "Таращук", 
+                "staff_member_phone": "+380-395-552-642", 
+                "staff_member_position": "Медичний брат", 
+                "staff_member_experience": 10,
+                "staff_member_birth_date": "13/12/1968",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Діана", 
+                "staff_member_sure_name": "Пономаренко", 
+                "staff_member_phone": "+380-876-555-548", 
+                "staff_member_position": "Повар", 
+                "staff_member_experience": 7,
+                "staff_member_birth_date": "21/02/1972",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Ольга", 
+                "staff_member_sure_name": "Шевченко", 
+                "staff_member_phone": "+380-395-559-049", 
+                "staff_member_position": "Санітар", 
+                "staff_member_experience": 22,
+                "staff_member_birth_date": "29/07/1973",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Євген", 
+                "staff_member_sure_name": "Крамарчук", 
+                "staff_member_phone": "+380-505-558-996", 
+                "staff_member_position": "Медичний брат", 
+                "staff_member_experience": 25,
+                "staff_member_birth_date": "07/03/1976",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Кравчук", 
+                "staff_member_sure_name": "Катерина", 
+                "staff_member_phone": "+380-635-556-015", 
+                "staff_member_position": "Старший медичний брат", 
+                "staff_member_experience": 33,
+                "staff_member_birth_date": "01/12/1976",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Олена", 
+                "staff_member_sure_name": "Мірошниченко", 
+                "staff_member_phone": "+380-395-557-034", 
+                "staff_member_position": "Санітар", 
+                "staff_member_experience": 21,
+                "staff_member_birth_date": "02/01/1978",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Віталій", 
+                "staff_member_sure_name": "Гнатюк", 
+                "staff_member_phone": "+380-505-555-471", 
+                "staff_member_position": "Повар", 
+                "staff_member_experience": 16,
+                "staff_member_birth_date": "19/04/1978",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Софія", 
+                "staff_member_sure_name": "Петренко", 
+                "staff_member_phone": "+380-635-555-159", 
+                "staff_member_position": "Санітар", 
+                "staff_member_experience": 19,
+                "staff_member_birth_date": "16/07/1981",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Йосип", 
+                "staff_member_sure_name": "Крамаренко", 
+                "staff_member_phone": "+380-635-551-899", 
+                "staff_member_position": "Завідувач господарства", 
+                "staff_member_experience": 22,
+                "staff_member_birth_date": "15/11/1983",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Дар'я", 
+                "staff_member_sure_name": "Васильович", 
+                "staff_member_phone": "+380-505-550-660", 
+                "staff_member_position": "Водій швидкої",
+                "staff_member_experience": 18,
+                "staff_member_birth_date": "30/03/1984",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Галина", 
+                "staff_member_sure_name": "Середа", 
+                "staff_member_phone": "+380-165-055-509", 
+                "staff_member_position": "Санітар", 
+                "staff_member_experience": 4,
+                "staff_member_birth_date": "12/04/1984",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "staff_member_name": "Bалерій", 
+                "staff_member_sure_name": "Микитюк", 
+                "staff_member_phone": "+380-635-555-875", 
+                "staff_member_position": "Завідувач господарства", 
+                "staff_member_experience": 9,
+                "staff_member_birth_date": "09/06/1984",
+                "department_name": "Стоматологічне відділення",
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко",
+                "doctors_domain": "Стоматолог"
+            }
+    ],
+    "patients":
+          [
+              {
+                "patient_name": "Богдан", 
+                "patient_sure_name": "Пугач", 
+                "patient_phone": "0974536483",
+                "patient_birth_date": "15.05.2000",
+                "patient_street": "пров Лісний",
+                "patient_house_number": 17,
+                "doctors_name": "Олег", 
+                "doctors_sure_name": "Платон", 
+                "doctors_domain": "Стоматолог"
+          }],
+    "chambers":
+          [{
+            "chamber_number": 20,
+            "chamber_appointment": "Хірургічна",
+            "beds_number": 2,
+            "department_name": "Хірургічне відділення", 
+            "doctors_name": "Олег", 
+            "doctors_sure_name": "Платон", 
+            "doctors_domain": "Стоматолог"
+          }],
+    "in_patients":
+          [{
+            "in_patient_name": "Богдан", 
+            "in_patient_sure_name": "Пугач", 
+            "in_patient_phone": "0974536483",
+            "in_patient_birth_date": "15.05.2000",
+            "in_patient_street": "пров Лісний",
+            "in_patient_house_number": 17,
+            "doctors_name": "Олег", 
+            "doctors_sure_name": "Платон", 
+            "doctors_domain": "Стоматолог",
+            "chamber_number": 20,
+            "chamber_appointment": "Хірургічна"
+          }],
+          "offices":
+        [
+            {
+                "office_number": 1,
+                "doctors_name": "Валентин", 
+                "doctors_sure_name": "Пономарчук", 
+                "doctors_domain": "Хірург" 
+            },
+            {
+                "office_number": 2,
+                "doctors_name": "Анатолій", 
+                "doctors_sure_name": "Гнатюк",
+                "doctors_domain": "Окуліст"
+            },
+            {
+                "office_number": 3,
+                "doctors_name": "Ярослав", 
+                "doctors_sure_name": "Мірошниченко", 
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "office_number": 4,
+                "doctors_name": "Олег", 
+                "doctors_sure_name": "Шевченко", 
+                "doctors_domain": "Травматолог"
+            },
+            {
+                "office_number": 5, 
+                "doctors_name": "Раїса", 
+                "doctors_sure_name": "Іванченко",  
+                "doctors_domain": "Хірург"
+            },
+            {
+                "office_number": 6,
+                "doctors_name": "Дар'я", 
+                "doctors_sure_name": "Лисенко",
+                "doctors_domain": "Хірург"
+            },
+            {
+                "office_number": 7,
+                "doctors_name": "Олексій", 
+                "doctors_sure_name": "Пономаренко", 
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "office_number": 8,
+                "doctors_name": "Ілля", 
+                "doctors_sure_name": "Павлюк", 
+                "doctors_domain": "Окуліст"
+            },
+            {
+                "office_number": 9,
+                "doctors_name": "Катерина", 
+                "doctors_sure_name": "Броварчук", 
+                "doctors_domain": "Хірург"
+            },
+            {
+                "office_number": 10,
+                "doctors_name": "Єлизавета", 
+                "doctors_sure_name": "Іванченко",
+                "doctors_domain": "Окуліст"
+            },
+            {
+                "office_number": 11,
+                "doctors_name": "Юрій", 
+                "doctors_sure_name": "Захарчук",
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "office_number": 12,
+                "doctors_name": "Мирослав", 
+                "doctors_sure_name": "Таращук",
+                "doctors_domain": "Окуліст"
+            },
+            {
+                "office_number": 13,
+                "doctors_name": "Ольга", 
+                "doctors_sure_name": "Шевченко", 
+                "doctors_domain": "Психотерапевт"
+            },
+            {
+                "office_number": 14, 
+                "doctors_name": "Євген", 
+                "doctors_sure_name": "Крамарчук", 
+                "doctors_domain": "Окуліст"
+            },
+            {
+                "office_number": 15,
+                "doctors_name": "Кравчук", 
+                "doctors_sure_name": "Катерина", 
+                "doctors_domain": "Стоматолог"
+            },
+            {
+                "office_number": 16,
+                "doctors_name": "Олена", 
+                "doctors_sure_name": "Мірошниченко", 
+                "doctors_domain": "Хірург"
+            },
+            {
+                "office_number": 17,
+                "doctors_name": "Софія",
+                "doctors_sure_name": "Петренко", 
+                "doctors_domain": "Психотерапевт"
+            },
+            {
+                "office_number": 18,
+                "doctors_name": "Йосип", 
+                "doctors_sure_name": "Крамаренко",  
+                "doctors_domain": "Ендокринолог" 
+                
+            },
+            {
+                "office_number": 19, 
+                "doctors_name": "Дар'я", 
+                "doctors_sure_name": "Васильович", 
+                "doctors_domain": "Травматолог"
+            },
+            {
+                "office_number": 20,
+                "doctors_name": "Галина", 
+                "doctors_sure_name": "Середа", 
+                "doctors_phone": "+380-165-055-509", 
+                "doctors_domain": "Хірург"
+            }
+        ]
+  }
+  

@@ -1,0 +1,17 @@
+.criteria-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 13vh;
+    border-bottom: 1px solid grey;
+
+    > * {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+.result-wrapper{
+    width: 100%;
+    height: 65vh;
+}

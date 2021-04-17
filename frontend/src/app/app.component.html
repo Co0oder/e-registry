@@ -1,0 +1,25 @@
+<app-header></app-header>
+<mat-tab-group mat-align-tabs="start">
+  <mat-tab label="Лікарня">
+    <app-criteria-group
+      firstInputLabel="Населений пункт"
+      firstInputType="text"
+      secondInputLabel="Профіль"
+      secondInputType="text"
+    ></app-criteria-group>
+  </mat-tab>
+  <mat-tab label="Відділення">
+    <app-criteria-group
+      firstInputLabel="Лікарня"
+      firstInputType="text"
+      secondInputLabel="Ще щось"
+      secondInputType="text"
+    ></app-criteria-group>
+  </mat-tab>
+  <mat-tab label="Лікарі">Лікарі</mat-tab>
+  <mat-tab label="Персонал">Персонал</mat-tab>
+  <mat-tab label="Кабінети">Кабінети</mat-tab>
+  <mat-tab label="Палати">Палати</mat-tab>
+  <mat-tab label="Пацієнти">Пацієнти</mat-tab>
+  <mat-tab label="Стаціонар">Стаціонар</mat-tab>
+</mat-tab-group>
